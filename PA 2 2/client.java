@@ -1,3 +1,4 @@
+/*Client program which sends packets to the server when an emulator drops some packets, uses sliding window protocol*/
 import java.io.*;
 import java.net.*;
 import java.util.LinkedList;
